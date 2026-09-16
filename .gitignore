@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local assessment data
+data/
+
+# Generated prediction artifacts
+validation_predictions.csv
+december_predictions.csv
+
+# Generated scorer output
+scorer_results/
+
+# Assessment source document
+freight-rate-ml-assessment.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
