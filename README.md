@@ -1,5 +1,3 @@
-
-
 # Freight Rate Prediction
 
 A leakage-aware machine learning solution for predicting freight load rates from shipment, equipment, distance, weight, and geographic information.
