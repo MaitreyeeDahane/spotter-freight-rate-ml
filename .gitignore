@@ -15,7 +15,6 @@ env/
 data/
 
 # Generated prediction artifacts
-validation_predictions.csv
 december_predictions.csv
 
 # Generated scorer output
